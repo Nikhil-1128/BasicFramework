@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33519" started-at="2021-05-16T19:17:53 IST" finished-at="2021-05-16T19:18:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33519" started-at="2021-05-16T19:17:53 IST" finished-at="2021-05-16T19:18:26 IST">
+      <class name="com.facebook.tests.LoginTest">
+        <test-method status="PASS" signature="performLogin()[pri:0, instance:com.facebook.tests.LoginTest@4b553d26]" name="performLogin" duration-ms="33474" started-at="2021-05-16T19:17:53 IST" finished-at="2021-05-16T19:18:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performLogin -->
+        <test-method status="PASS" signature="takeSreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:com.facebook.tests.LoginTest@4b553d26]" name="takeSreenshotOnFailure" is-config="true" duration-ms="8" started-at="2021-05-16T19:18:26 IST" finished-at="2021-05-16T19:18:26 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=performLogin status=SUCCESS method=LoginTest.performLogin()[pri:0, instance:com.facebook.tests.LoginTest@4b553d26] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- takeSreenshotOnFailure -->
+      </class> <!-- com.facebook.tests.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
