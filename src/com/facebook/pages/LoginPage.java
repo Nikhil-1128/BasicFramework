@@ -97,7 +97,7 @@ public class LoginPage extends MasterPage {
 		String expectedUrl="https://www.facebook.com/";
 		String actualUrl= getUrl();
 		Assert.assertEquals(actualUrl, expectedUrl);
-		logger.info("Valid User Logged In as expected ");
+		logger.info("Valid User Logged In ");
 		driver.close();
 		
 		
