@@ -1,8 +1,6 @@
-2021-05-16 19:17:58,959 [main] INFO MasterPage - Email Clicked
-2021-05-16 19:18:26,675 [main] INFO MasterPage - 1 Valid User logged In
-2021-05-16 19:18:26,678 [main] INFO MasterPage - 2 Invalid User logged In
-2021-05-22 19:26:57,892 [main] INFO MasterPage - Email Clicked
-2021-05-22 19:27:44,413 [main] INFO MasterPage - Email Clicked
-2021-05-22 19:28:30,447 [main] INFO MasterPage - Email Clicked
-2021-05-22 19:29:23,515 [main] INFO MasterPage - 1 Valid User logged In
-2021-05-22 19:29:23,517 [main] INFO MasterPage - 1 Invalid Users logged In
+2021-06-05 15:59:25,754 [main] INFO MasterPage - Email Clicked
+2021-06-05 15:59:49,004 [main] INFO MasterPage - 1 Valid User logged In
+2021-06-05 15:59:49,006 [main] INFO MasterPage - 0 Invalid Users logged In
+2021-06-05 16:00:21,248 [main] INFO MasterPage - Email Clicked
+2021-06-05 16:00:45,618 [main] INFO MasterPage - 1 Valid User logged In
+2021-06-05 16:00:45,619 [main] INFO MasterPage - 0 Invalid Users logged In
