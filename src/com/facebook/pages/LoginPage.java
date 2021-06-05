@@ -50,6 +50,7 @@ public class LoginPage extends MasterPage {
 					 Thread.sleep(3000);
 					 click("Account");
 					 click("Logout");
+					 
 				 }
 				 else {
 					 String expectedErrorTitle="Log in to Facebook";
