@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="30655" started-at="2021-06-05T17:03:49Z" finished-at="2021-06-05T17:04:20Z">
+  <suite name="Suite" duration-ms="33125" started-at="2021-06-06T07:03:27Z" finished-at="2021-06-06T07:04:00Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="30655" started-at="2021-06-05T17:03:49Z" finished-at="2021-06-05T17:04:20Z">
+    <test name="Test" duration-ms="33125" started-at="2021-06-06T07:03:27Z" finished-at="2021-06-06T07:04:00Z">
       <class name="com.facebook.tests.LoginTest">
-        <test-method status="PASS" signature="performLogin()[pri:0, instance:com.facebook.tests.LoginTest@14ec4505]" name="performLogin" duration-ms="30627" started-at="2021-06-05T17:03:49Z" finished-at="2021-06-05T17:04:20Z">
+        <test-method status="PASS" signature="performLogin()[pri:0, instance:com.facebook.tests.LoginTest@14ec4505]" name="performLogin" duration-ms="33084" started-at="2021-06-06T07:03:27Z" finished-at="2021-06-06T07:04:00Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- performLogin -->
-        <test-method status="PASS" signature="takeSreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:com.facebook.tests.LoginTest@14ec4505]" name="takeSreenshotOnFailure" is-config="true" duration-ms="6" started-at="2021-06-05T17:04:20Z" finished-at="2021-06-05T17:04:20Z">
+        <test-method status="PASS" signature="takeSreenshotOnFailure(org.testng.ITestResult)[pri:0, instance:com.facebook.tests.LoginTest@14ec4505]" name="takeSreenshotOnFailure" is-config="true" duration-ms="0" started-at="2021-06-06T07:04:00Z" finished-at="2021-06-06T07:04:00Z">
           <params>
             <param index="0">
               <value>

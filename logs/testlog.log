@@ -22,3 +22,9 @@
 2021-06-05 22:34:20,577 [main] INFO MasterPage - 1 Valid User logged In
 2021-06-05 22:34:20,578 - MasterPage -INFO - 0 Invalid Users logged In
 2021-06-05 22:34:20,578 [main] INFO MasterPage - 0 Invalid Users logged In
+2021-06-06 12:33:34,340 - MasterPage -INFO - Email Clicked
+2021-06-06 12:33:34,340 [main] INFO MasterPage - Email Clicked
+2021-06-06 12:34:00,340 - MasterPage -INFO - 1 Valid User logged In
+2021-06-06 12:34:00,340 [main] INFO MasterPage - 1 Valid User logged In
+2021-06-06 12:34:00,340 - MasterPage -INFO - 2 Invalid Users logged In
+2021-06-06 12:34:00,340 [main] INFO MasterPage - 2 Invalid Users logged In
